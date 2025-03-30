@@ -1,1 +1,2 @@
 # OutscalSubmission
+Outscal commit practice
